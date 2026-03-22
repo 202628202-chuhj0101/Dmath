@@ -1,9 +1,9 @@
-# Dmath
+# MY Discrete Math Repository
 
-Homework2 - 202628202 CHU HYUN JUN
+## Homework2 - 202628202 CHU HYUN JUN
 
 
-## 2.1 Equation Editing
+### 2.1 Equation Editing
 
 | # | text | formula |
 |---|------|--------|
@@ -16,7 +16,7 @@ Homework2 - 202628202 CHU HYUN JUN
 | 7 | Euler's Identity | e^(iπ) + 1 = 0 |
 | 8 | SUM of n from 1 to 100 Equals 5050 | Σ(n=1 to 100) n = 5050 |
 
-## 2.2 Translation
+### 2.2 Translation
 
 Let  
 - p = "I study"  
